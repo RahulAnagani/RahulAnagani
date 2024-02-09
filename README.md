@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **few languages**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++ and PYTHON**
 
 - 📫 How to reach me **rahul.anagani2006@gmail.com**
 
